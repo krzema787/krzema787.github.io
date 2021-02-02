@@ -1,0 +1,21 @@
+/* SELEKTORY: */
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003868;
+	background-color: #B8B8B8;
+	margin: 6mm;
+}
+
+
+
+
+
+
+p {
+	text-align: justify;
+
+
+pre, code {
+	font-size: 8pt;
+}

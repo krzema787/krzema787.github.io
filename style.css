@@ -1,0 +1,37 @@
+/* SELEKTORY: */
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003868;
+	background-color: gray;
+	margin: 6mm;
+}
+
+#table1 
+{
+text-align: center;
+font-size: 28px;
+font-family: Arial;
+border-style: solid;
+border-width: 6px;
+border-color: gray;
+}
+
+#table2 
+{
+text-align: center;
+font-size: 28px;
+font-family:Arial;
+border-style: solid;
+border-width: 1px;
+border-color: gray;
+}
+
+
+p {
+	text-align: justify;
+}
+
+pre, code {
+	font-size: 8pt;
+}
